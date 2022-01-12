@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\COMPUTER\Desktop\BAEKJOON_2675\Project1\소스.cpp(17,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\COMPUTER\Desktop\BAEKJOON_2675\Project1\소스.cpp(17,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+C:\Users\COMPUTER\Desktop\BAEKJOON_2675\Project1\소스.cpp(17,11): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\COMPUTER\Desktop\BAEKJOON_2675\Project1\소스.cpp(17,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\COMPUTER\Desktop\BAEKJOON_2675\Project1\소스.cpp(19,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project1.vcxproj -> C:\Users\COMPUTER\Desktop\BAEKJOON_2675\Project1\Debug\Project1.exe
